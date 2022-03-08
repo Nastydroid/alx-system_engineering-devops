@@ -1,2 +1,2 @@
 #!/bin/bash
-grep  -c -i "bin" | /etc/passwd[D[D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[C[D[D[D[D[C["[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D
+grep  -c -i "bin" | /etc/passwd
