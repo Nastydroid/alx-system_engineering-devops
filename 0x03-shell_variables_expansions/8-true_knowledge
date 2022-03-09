@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($trueknowledge +1238))[D[D[[D[DTRUEKNOWLEDGE +128))
+echo $(($TRUEKNOWLEDGE +128))
