@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%f\n"[D[D[x[C[C[C $DECIMAL
+printf "%f\n" $DECIMAL
